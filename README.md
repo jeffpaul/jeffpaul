@@ -1,4 +1,4 @@
-### Hi there 👋
+![Black Lives Matter](https://github.com/jeffpaul/jeffpaul/blob/trunk/BLM-OakPark-IL.jpg)
 
 <!--
 **jeffpaul/jeffpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
